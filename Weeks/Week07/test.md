@@ -1,3 +1,3 @@
-Testing merge conflicts and changing this line as well.
+Testing merge / changing on github
 
 Adding a new unnecessary line
